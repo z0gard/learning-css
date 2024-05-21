@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.big-box {
+    border: 10px solid lightblue;
+    
+}
+
+.box-four,
+.box-one{
+    background-color: #f84c4c;  
+    border: 20px solid rgb(163, 22, 228);
+    padding: 10px;
+    margin: 20px; 
+    height: 150px;
+    width: 150px;
+    box-sizing: border-box;
+}
+
+.box-five,
+.box-two {
+background-color: #2aa6f8;
+    border: 10px solid rgb(223, 36, 180);
+    padding: 10px;
+    margin: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+.box-six,
+.box-three {
+    background-color: #2aa6f8;
+        border: 10px solid rgb(10, 228, 10);
+        padding: 10px;
+        margin: 20px;
+        height: 100px;
+        width: 100px;
+    }
+
+    
+
+
+
+
+
+
+
