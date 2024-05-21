@@ -9,6 +9,10 @@
     
 }
 
+.big-box1 {
+    display: flex;
+}
+
 .box-four,
 .box-one{
     background-color: #f84c4c;  
