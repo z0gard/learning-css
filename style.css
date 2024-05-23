@@ -44,7 +44,19 @@ background-color: #2aa6f8;
         width: 100px;
     }
 
-    
+.box-four {
+    position: absolute;
+    top: 0%;
+    left: 80%;
+}
+
+.box-two {
+    position: absolute;
+    top: 80%;
+    right: 80%;
+}
+
+
 
 
 
